@@ -1,0 +1,52 @@
+.grid {
+	margin: 0 auto;
+	width: 70%;
+	height: 0;
+	padding-bottom: 45%;
+	overflow: hidden;
+	background-color: #000;
+}
+
+.blocks  {
+	height: 10px;
+	width: 10px;
+	padding: 0;
+	margin: 0;
+	float: left;	
+}
+
+.blocks {
+	background-color: #000;
+}
+
+.highlight {
+	background-color: blue;
+}
+
+ul {
+	margin: 0;
+	padding: 0 10px;
+	list-style-type: none;
+	text-align: center;
+	
+}
+
+li {
+	display: inline;
+	padding: 0 10px;
+}
+
+.buttons {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.rangeSlider {
+	
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+
+
+
