@@ -1,3 +1,7 @@
+// sketch.js
+// by Terry Atkins
+// http://www.theodinproject.com/courses/web-development-101/lessons/javascript-and-jquery
+
 $(document).ready(function () {	
 	addGrid(resizeDiv());
 	colours();
